@@ -1,5 +1,4 @@
 Citizen.CreateThread(function()
-
     --[[ Cars --]]
     AddTextEntry("SPAWN NAME", "NAME AND DESCRIPTION OF VEHICLE")
 
@@ -13,15 +12,11 @@ Citizen.CreateThread(function()
     AddTextEntry("SPAWN NAME", "NAME AND DESCRIPTION OF VEHICLE")
 
     --[[ Cycles --]]
-
     AddTextEntry("SPAWN NAME", "NAME AND DESCRIPTION OF VEHICLE")
 
     --[[ Aircraft --]]
-
     AddTextEntry("SPAWN NAME", "NAME AND DESCRIPTION OF VEHICLE")
 
     --[[ Boats --]]
-
     AddTextEntry("SPAWN NAME", "NAME AND DESCRIPTION OF VEHICLE")
-
 end)
