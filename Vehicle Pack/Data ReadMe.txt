@@ -3,4 +3,4 @@ also need a folder and so on.
 
 Put the meta files for each vehicle in their own folder.
 
-Example: VehiclePack > data > newsvan > cacols.meta
+Example: VehiclePack > data > newsvan > carcols.meta
